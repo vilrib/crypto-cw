@@ -163,7 +163,7 @@ email_label.grid(column=0, row=1)  # Adjusted row from 2 to 1
 
 email_entry = Entry(width=35)
 email_entry.grid(column=1, row=1, columnspan=2, sticky="EW")
-email_entry.insert(0, "yourmail@gmail.com")
+email_entry.insert(0, "saroj@gmail.com")
 
 password_label = Label(text="Password: ")
 password_label.grid(column=0, row=2)  # Adjusted row from 3 to 2
